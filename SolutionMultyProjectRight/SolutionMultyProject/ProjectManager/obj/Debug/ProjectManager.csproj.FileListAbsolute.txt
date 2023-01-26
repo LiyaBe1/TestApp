@@ -1,0 +1,36 @@
+C:\Users\nikor\source\repos\SolutionMultyProject\ProjectManager\bin\Debug\ProjectManager.exe.config
+C:\Users\nikor\source\repos\SolutionMultyProject\ProjectManager\bin\Debug\ProjectManager.exe
+C:\Users\nikor\source\repos\SolutionMultyProject\ProjectManager\bin\Debug\ProjectManager.pdb
+C:\Users\nikor\source\repos\SolutionMultyProject\ProjectManager\bin\Debug\ProjectOne.exe
+C:\Users\nikor\source\repos\SolutionMultyProject\ProjectManager\bin\Debug\ProjectTwo.exe
+C:\Users\nikor\source\repos\SolutionMultyProject\ProjectManager\bin\Debug\ProjectOne.pdb
+C:\Users\nikor\source\repos\SolutionMultyProject\ProjectManager\bin\Debug\ProjectOne.exe.config
+C:\Users\nikor\source\repos\SolutionMultyProject\ProjectManager\bin\Debug\ProjectTwo.pdb
+C:\Users\nikor\source\repos\SolutionMultyProject\ProjectManager\bin\Debug\ProjectTwo.exe.config
+C:\Users\nikor\source\repos\SolutionMultyProject\ProjectManager\obj\Debug\ProjectManager.csproj.AssemblyReference.cache
+C:\Users\nikor\source\repos\SolutionMultyProject\ProjectManager\obj\Debug\ProjectManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikor\source\repos\SolutionMultyProject\ProjectManager\obj\Debug\ProjectManager.Form1.resources
+C:\Users\nikor\source\repos\SolutionMultyProject\ProjectManager\obj\Debug\ProjectManager.Properties.Resources.resources
+C:\Users\nikor\source\repos\SolutionMultyProject\ProjectManager\obj\Debug\ProjectManager.csproj.GenerateResource.cache
+C:\Users\nikor\source\repos\SolutionMultyProject\ProjectManager\obj\Debug\ProjectManager.csproj.CoreCompileInputs.cache
+C:\Users\nikor\source\repos\SolutionMultyProject\ProjectManager\obj\Debug\ProjectManager.csproj.CopyComplete
+C:\Users\nikor\source\repos\SolutionMultyProject\ProjectManager\obj\Debug\ProjectManager.exe
+C:\Users\nikor\source\repos\SolutionMultyProject\ProjectManager\obj\Debug\ProjectManager.pdb
+C:\Users\nikor\source\repos\SolutionMultyProject — копия\ProjectManager\bin\Debug\ProjectManager.exe.config
+C:\Users\nikor\source\repos\SolutionMultyProject — копия\ProjectManager\bin\Debug\ProjectManager.exe
+C:\Users\nikor\source\repos\SolutionMultyProject — копия\ProjectManager\bin\Debug\ProjectManager.pdb
+C:\Users\nikor\source\repos\SolutionMultyProject — копия\ProjectManager\bin\Debug\ProjectOne.exe
+C:\Users\nikor\source\repos\SolutionMultyProject — копия\ProjectManager\bin\Debug\ProjectTwo.exe
+C:\Users\nikor\source\repos\SolutionMultyProject — копия\ProjectManager\bin\Debug\ProjectOne.pdb
+C:\Users\nikor\source\repos\SolutionMultyProject — копия\ProjectManager\bin\Debug\ProjectOne.exe.config
+C:\Users\nikor\source\repos\SolutionMultyProject — копия\ProjectManager\bin\Debug\ProjectTwo.pdb
+C:\Users\nikor\source\repos\SolutionMultyProject — копия\ProjectManager\bin\Debug\ProjectTwo.exe.config
+C:\Users\nikor\source\repos\SolutionMultyProject — копия\ProjectManager\obj\Debug\ProjectManager.csproj.AssemblyReference.cache
+C:\Users\nikor\source\repos\SolutionMultyProject — копия\ProjectManager\obj\Debug\ProjectManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikor\source\repos\SolutionMultyProject — копия\ProjectManager\obj\Debug\ProjectManager.Form1.resources
+C:\Users\nikor\source\repos\SolutionMultyProject — копия\ProjectManager\obj\Debug\ProjectManager.Properties.Resources.resources
+C:\Users\nikor\source\repos\SolutionMultyProject — копия\ProjectManager\obj\Debug\ProjectManager.csproj.GenerateResource.cache
+C:\Users\nikor\source\repos\SolutionMultyProject — копия\ProjectManager\obj\Debug\ProjectManager.csproj.CoreCompileInputs.cache
+C:\Users\nikor\source\repos\SolutionMultyProject — копия\ProjectManager\obj\Debug\ProjectManager.csproj.CopyComplete
+C:\Users\nikor\source\repos\SolutionMultyProject — копия\ProjectManager\obj\Debug\ProjectManager.exe
+C:\Users\nikor\source\repos\SolutionMultyProject — копия\ProjectManager\obj\Debug\ProjectManager.pdb

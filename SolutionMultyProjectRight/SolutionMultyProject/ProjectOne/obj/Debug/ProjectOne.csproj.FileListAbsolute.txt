@@ -1,0 +1,16 @@
+C:\Users\nikor\source\repos\SolutionMultyProject\ProjectOne\bin\Debug\ProjectOne.exe.config
+C:\Users\nikor\source\repos\SolutionMultyProject\ProjectOne\bin\Debug\ProjectOne.exe
+C:\Users\nikor\source\repos\SolutionMultyProject\ProjectOne\bin\Debug\ProjectOne.pdb
+C:\Users\nikor\source\repos\SolutionMultyProject\ProjectOne\obj\Debug\ProjectOne.csproj.AssemblyReference.cache
+C:\Users\nikor\source\repos\SolutionMultyProject\ProjectOne\obj\Debug\ProjectOne.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikor\source\repos\SolutionMultyProject\ProjectOne\obj\Debug\ProjectOne.csproj.CoreCompileInputs.cache
+C:\Users\nikor\source\repos\SolutionMultyProject\ProjectOne\obj\Debug\ProjectOne.exe
+C:\Users\nikor\source\repos\SolutionMultyProject\ProjectOne\obj\Debug\ProjectOne.pdb
+C:\Users\nikor\source\repos\SolutionMultyProject — копия\ProjectOne\bin\Debug\ProjectOne.exe.config
+C:\Users\nikor\source\repos\SolutionMultyProject — копия\ProjectOne\bin\Debug\ProjectOne.exe
+C:\Users\nikor\source\repos\SolutionMultyProject — копия\ProjectOne\bin\Debug\ProjectOne.pdb
+C:\Users\nikor\source\repos\SolutionMultyProject — копия\ProjectOne\obj\Debug\ProjectOne.csproj.AssemblyReference.cache
+C:\Users\nikor\source\repos\SolutionMultyProject — копия\ProjectOne\obj\Debug\ProjectOne.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikor\source\repos\SolutionMultyProject — копия\ProjectOne\obj\Debug\ProjectOne.csproj.CoreCompileInputs.cache
+C:\Users\nikor\source\repos\SolutionMultyProject — копия\ProjectOne\obj\Debug\ProjectOne.exe
+C:\Users\nikor\source\repos\SolutionMultyProject — копия\ProjectOne\obj\Debug\ProjectOne.pdb

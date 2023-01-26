@@ -1,0 +1,22 @@
+C:\Users\nikor\source\repos\SolutionMultyProject\ProjectTwo\bin\Debug\ProjectTwo.exe.config
+C:\Users\nikor\source\repos\SolutionMultyProject\ProjectTwo\bin\Debug\ProjectTwo.exe
+C:\Users\nikor\source\repos\SolutionMultyProject\ProjectTwo\bin\Debug\ProjectTwo.pdb
+C:\Users\nikor\source\repos\SolutionMultyProject\ProjectTwo\obj\Debug\ProjectTwo.csproj.AssemblyReference.cache
+C:\Users\nikor\source\repos\SolutionMultyProject\ProjectTwo\obj\Debug\ProjectTwo.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikor\source\repos\SolutionMultyProject\ProjectTwo\obj\Debug\ProjectTwo.Form1.resources
+C:\Users\nikor\source\repos\SolutionMultyProject\ProjectTwo\obj\Debug\ProjectTwo.Properties.Resources.resources
+C:\Users\nikor\source\repos\SolutionMultyProject\ProjectTwo\obj\Debug\ProjectTwo.csproj.GenerateResource.cache
+C:\Users\nikor\source\repos\SolutionMultyProject\ProjectTwo\obj\Debug\ProjectTwo.csproj.CoreCompileInputs.cache
+C:\Users\nikor\source\repos\SolutionMultyProject\ProjectTwo\obj\Debug\ProjectTwo.exe
+C:\Users\nikor\source\repos\SolutionMultyProject\ProjectTwo\obj\Debug\ProjectTwo.pdb
+C:\Users\nikor\source\repos\SolutionMultyProject — копия\ProjectTwo\bin\Debug\ProjectTwo.exe.config
+C:\Users\nikor\source\repos\SolutionMultyProject — копия\ProjectTwo\bin\Debug\ProjectTwo.exe
+C:\Users\nikor\source\repos\SolutionMultyProject — копия\ProjectTwo\bin\Debug\ProjectTwo.pdb
+C:\Users\nikor\source\repos\SolutionMultyProject — копия\ProjectTwo\obj\Debug\ProjectTwo.csproj.AssemblyReference.cache
+C:\Users\nikor\source\repos\SolutionMultyProject — копия\ProjectTwo\obj\Debug\ProjectTwo.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikor\source\repos\SolutionMultyProject — копия\ProjectTwo\obj\Debug\ProjectTwo.Form1.resources
+C:\Users\nikor\source\repos\SolutionMultyProject — копия\ProjectTwo\obj\Debug\ProjectTwo.Properties.Resources.resources
+C:\Users\nikor\source\repos\SolutionMultyProject — копия\ProjectTwo\obj\Debug\ProjectTwo.csproj.GenerateResource.cache
+C:\Users\nikor\source\repos\SolutionMultyProject — копия\ProjectTwo\obj\Debug\ProjectTwo.csproj.CoreCompileInputs.cache
+C:\Users\nikor\source\repos\SolutionMultyProject — копия\ProjectTwo\obj\Debug\ProjectTwo.exe
+C:\Users\nikor\source\repos\SolutionMultyProject — копия\ProjectTwo\obj\Debug\ProjectTwo.pdb
